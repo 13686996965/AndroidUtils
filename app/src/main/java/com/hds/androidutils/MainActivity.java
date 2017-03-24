@@ -1,4 +1,4 @@
-package com.gzfns.androidutils;
+package com.hds.androidutils;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
